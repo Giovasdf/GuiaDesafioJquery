@@ -7,6 +7,6 @@ $(document).ready(
 
         console.log(email);
         console.log(emailXTipo);
-        console.log(allInput);
+        console.log(allInputs);
     }
 );
